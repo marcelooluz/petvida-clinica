@@ -7,7 +7,6 @@
 Sistema web de **agenda inteligente e prontuário digital** para a clínica **PetVida & Estética Animal**.
 Estudo de Caso 5 — Design Profissional (Produção de Portfólio & Desenvolvimento Empresarial).
 
-**Demo:** `https://SEU-USUARIO.github.io/petvida-clinica/`
 
 ## 1. Briefing do problema
 
@@ -61,7 +60,7 @@ petvida-clinica/
 ## 5. Instalação e execução
 
 ```bash
-git clone https://github.com/SEU-USUARIO/petvida-clinica.git
+git clone https://github.com/marcelooluz/petvida-clinica.git
 cd petvida-clinica
 # opção A: abra o index.html no navegador
 # opção B: servidor local
