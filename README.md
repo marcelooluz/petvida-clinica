@@ -7,6 +7,7 @@
 Sistema web de **agenda inteligente e prontuário digital** para a clínica **PetVida & Estética Animal**.
 Estudo de Caso 5 — Design Profissional (Produção de Portfólio & Desenvolvimento Empresarial).
 
+**Demo:** https://marcelooluz.github.io/petvida-clinica/
 
 ## 1. Briefing do problema
 
