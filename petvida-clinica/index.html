@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PetVida — Agenda e Prontuário</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1>🐾 PetVida <small>& Estética Animal</small></h1>
+  <div>
+    <label>Perfil <select id="role"><option value="staff">Recepção / Veterinários</option><option value="tutor">Tutor</option></select></label>
+    <select id="tutor" hidden></select>
+  </div>
+</header>
+<nav>
+  <button data-v="agenda">Agenda</button>
+  <button data-v="novo">Agendar</button>
+  <button data-v="pets">Pets e Prontuário</button>
+  <button data-v="lembretes">Lembretes</button>
+</nav>
+<main>
+  <section id="agenda"></section>
+  <section id="novo" hidden></section>
+  <section id="pets" hidden></section>
+  <section id="lembretes" hidden></section>
+</main>
+<footer><button data-a="reset">Restaurar dados de exemplo</button> · Dados salvos apenas neste navegador (demo).</footer>
+<script src="js/app.js"></script>
+</body>
+</html>
