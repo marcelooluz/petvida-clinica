@@ -7,7 +7,6 @@
 Sistema web de **agenda inteligente e prontuário digital** para a clínica **PetVida & Estética Animal**.
 Estudo de Caso 5 — Design Profissional (Produção de Portfólio & Desenvolvimento Empresarial).
 
-**Demo:** `https://SEU-USUARIO.github.io/petvida-clinica/`
 
 ## 1. Briefing do problema
 
@@ -35,10 +34,10 @@ A PetVida (Dr. Gabriel Santos e Dra. Camila Paes; 2 veterinários plantonistas, 
 4. **Lembretes:** vacinas atrasadas/a vencer e confirmações de amanhã.
 5. **Perfil Tutor:** visão restrita aos próprios pets e agendamentos.
 
-![Agenda](docs/screenshots/agenda.png)
-![Agendar](docs/screenshots/agendar.png)
-![Prontuário](docs/screenshots/prontuario.png)
-![Lembretes](docs/screenshots/lembretes.png)
+![Agenda](docs/screenshots/Captura%20de%20tela%202026-10-05%20230009.png)
+![Agendar](docs/screenshots/Captura%20de%20tela%202026-10-05%20230015.png)
+![Prontuário](docs/screenshots/Captura%20de%20tela%202026-10-05%20230022.png)
+![Lembretes](docs/screenshots/Captura%20de%20tela%202026-10-05%20230028.png)
 
 ## 4. Arquitetura e tecnologias
 
@@ -61,7 +60,7 @@ petvida-clinica/
 ## 5. Instalação e execução
 
 ```bash
-git clone https://github.com/SEU-USUARIO/petvida-clinica.git
+git clone https://github.com/marcelooluz/petvida-clinica.git
 cd petvida-clinica
 # opção A: abra o index.html no navegador
 # opção B: servidor local
