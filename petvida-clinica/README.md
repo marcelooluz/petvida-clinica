@@ -34,10 +34,10 @@ A PetVida (Dr. Gabriel Santos e Dra. Camila Paes; 2 veterinários plantonistas, 
 4. **Lembretes:** vacinas atrasadas/a vencer e confirmações de amanhã.
 5. **Perfil Tutor:** visão restrita aos próprios pets e agendamentos.
 
-![Agenda](docs/screenshots/agenda.png)
-![Agendar](docs/screenshots/agendar.png)
-![Prontuário](docs/screenshots/prontuario.png)
-![Lembretes](docs/screenshots/lembretes.png)
+![Agenda](docs/screenshots/Captura%20de%20tela%202026-10-05%20230009.png)
+![Agendar](docs/screenshots/Captura%20de%20tela%202026-10-05%20230015.png)
+![Prontuário](docs/screenshots/Captura%20de%20tela%202026-10-05%20230022.png)
+![Lembretes](docs/screenshots/Captura%20de%20tela%202026-10-05%20230028.png)
 
 ## 4. Arquitetura e tecnologias
 
